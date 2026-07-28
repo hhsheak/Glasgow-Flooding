@@ -10,7 +10,7 @@ Scotland uses the Scottish Index of Multiple Deprivation (SIDM) to measure holis
 
 ### 2. Mapping Flooding
 
-I then downloaded flooding data from the Scottish Environmental Protection Agency (https://www2.sepa.org.uk/flooddata/). The symbology of the various layers follows that provided by the agency.
+I then downloaded flooding data from the Scottish Environmental Protection Agency (SEPA) (https://www2.sepa.org.uk/flooddata/). I then cropped the various layers to the boundaries of the data zones and coloured them based on the symbology provided by the SEPA.
 
 ### 3. Creating the Maps
 
